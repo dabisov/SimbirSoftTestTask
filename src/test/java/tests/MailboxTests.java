@@ -45,7 +45,7 @@ public class MailboxTests {
     @Test(description = "Авторизация в почтовом ящике / Отправление сообщения с количеством писем")
     public final void testTask() throws IOException, InterruptedException {
         String login = "almaz.dabisov";
-        String password = "almazeikum196345";
+        String password = "";
         String address = "dabisov.almaz@gmail.com";
         String subject = "Тестовое задание. Дабисов.";
         String user = "dabisov.almaz@gmail.com";
