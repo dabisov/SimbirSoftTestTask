@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestTaskSuite">
+    <test name="TestTaskTest">
+        <classes>
+            <class name="tests.MailboxTests"></class>
+        </classes>
+    </test>
+</suite>
